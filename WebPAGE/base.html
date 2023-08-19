@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Garbage Classification - Result</title>
+</head>
+<body>
+    <h1>Garbage Classification Result</h1>
+    <div id="prediction-result">
+        <!-- The prediction result will be displayed here -->
+    </div>
+
+    <script>
+        // Get the prediction result passed from the Flask route
+        var predictionResult = "{{ prediction_result }}";
+        // Find the div element to display the result
+        var predictionDiv = document.getElementById("prediction-result");
+        // Set the prediction text inside the div
+        predictionDiv.innerHTML = predictionResult;
+    </script>
+</body>
+</html>

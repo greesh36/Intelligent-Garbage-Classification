@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.GC-details {
+    color: purple;
+    font-weight: bold;
+}
+
+.footer-footer-section {
+    text-align: center;
+}
+
+.footer-icons {
+    background-color: #181818;
+    width: 35px;
+    height: 30px;
+    margin: 5px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.copyright-highlight {
+    color: #ffffff;
+}
+
+.copyright-highlight-smart {
+    color: red;
+}
+
+.Full-page-background {
+    background-color: #efe9f9;
+}
+
+.footer-UL-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.Home-page-background {
+    background: url("finalprojectimage.png");
+    background-size: cover;
+    text-align: center;
+    height: 70vh;
+}
+
+.contact-page-background {
+    background-color: #ffffff;
+    text-align: center;
+
+}
+
+.About-page-background {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 700px;
+}
+
+.smart-bridge-footer-container {
+    text-align: center;
+    background-color: #000000;
+}
+
+.contact-page-logo {
+    color: red;
+}
+
+.footer-page-background {
+    background-color: #181818;
+    background-size: cover;
+    color: #a9a9a9;
+}
+
+.About-page-heading {
+    color: #86608e;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.smart-bridge-highlight {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.footer-description {
+    font-style: italic;
+    font-size: 16px;
+}
+
+.span-highlight {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.contact-page-heading {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.About-page-sub-heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Home-page-heading {
+    color: #000000;
+    font-size: 34px;
+
+}
